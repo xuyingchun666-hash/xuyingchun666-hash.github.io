@@ -1,0 +1,21 @@
+# Large source files and private working materials
+/作品集+简历/
+/作品项目分类/
+/意向参考+可能用到的素材/
+/补充资料/
+/主形象/
+/精选作品/
+
+# Local/system files
+.DS_Store
+Thumbs.db
+desktop.ini
+.agents/
+.codex/
+
+# Editor and temporary files
+.vscode/
+.idea/
+*.tmp
+*.bak
+~$*

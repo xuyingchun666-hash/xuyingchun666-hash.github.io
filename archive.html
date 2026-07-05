@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Project Archive | Yingchun Xu</title>
+    <link rel="stylesheet" href="archive.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="index.html#home">
+        <span class="brand-mark">XU</span>
+        <span>YINGCHUN XU</span>
+      </a>
+      <nav class="main-nav" aria-label="Archive navigation">
+        <a href="index.html#works">WORKS</a>
+        <a href="index.html#about">ABOUT</a>
+        <a class="is-active" href="archive.html">ARCHIVE</a>
+        <a href="index.html#process">PROCESS</a>
+        <a href="index.html#contact">CONTACT</a>
+      </nav>
+      <a class="talk-link glow-target" href="index.html#contact">LET'S TALK <i></i></a>
+    </header>
+
+    <main class="archive-page">
+      <section class="archive-hero">
+        <img src="assets/generated/archive-clean-v3.png" alt="" />
+        <div class="hero-copy">
+          <p class="kicker"><span></span> DESIGN ARCHIVE</p>
+          <h1 class="hover-title">PROJECT<br />FRAGMENTS</h1>
+          <h2>项目档案</h2>
+          <p>这里收纳精选之外的项目片段、渲染图、结构视角、过程资料和资质信息。</p>
+          <p>按项目类型归档，方便快速浏览完整作品脉络。</p>
+        </div>
+      </section>
+
+      <section class="archive-board" aria-label="Project archive">
+        <div class="category-bar">
+          <span>CATEGORY</span>
+          <button class="is-active" data-filter="all" type="button">全部</button>
+          <button data-filter="pop" type="button">快闪 · 会展 · 美陈</button>
+          <button data-filter="summit" type="button">峰会 · 论坛</button>
+          <button data-filter="commercial" type="button">工装 · 商业空间</button>
+          <button data-filter="home" type="button">家装</button>
+          <button data-filter="ai" type="button">AI实验室</button>
+          <button data-filter="others" type="button">其他</button>
+        </div>
+        <div class="archive-grid" id="archiveGrid"></div>
+      </section>
+    </main>
+
+    <div class="viewer" aria-hidden="true">
+      <button class="viewer-close glow-target" type="button">CLOSE</button>
+      <button class="viewer-prev glow-target" type="button">PREV</button>
+      <figure>
+        <img alt="" />
+        <video controls preload="metadata"></video>
+        <figcaption>
+          <span></span>
+          <strong></strong>
+        </figcaption>
+      </figure>
+      <button class="viewer-next glow-target" type="button">NEXT</button>
+    </div>
+
+    <script src="archive-data.js"></script>
+    <script src="archive.js"></script>
+  </body>
+</html>
