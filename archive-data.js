@@ -1,5 +1,5 @@
 window.ARCHIVE_DATA = {
-    "generatedAt":  "2026-07-04T03:27:02",
+    "generatedAt":  "2026-07-07T02:13:06",
     "totalMedia":  372,
     "categories":  [
                        {
@@ -18,83 +18,83 @@ window.ARCHIVE_DATA = {
                                              "count":  20,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/中兴快闪店/2f_Camera008_005_2f Camera008 005_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-e7702bfb-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/中兴快闪店/2f_Camera008_005_Camera006_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-e7702bfb-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/中兴快闪店/2f_Camera008_005_Camera007 y_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-e7702bfb-003.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/中兴快闪店/2f_Camera008_005_2f Camera008 006_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-e7702bfb-004.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/中兴快闪店/2f_Camera008_005_2f Camera008 006_0000(1).jpg",
+                                                                "src":  "assets/archive-watermarked/pop-e7702bfb-005.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/中兴快闪店/2f_Camera008_005_Camera008_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-e7702bfb-006.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/中兴快闪店/2f_Camera008_005_Camera003_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-e7702bfb-007.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/中兴快闪店/2f_Camera008_005_Camera011_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-e7702bfb-008.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/中兴快闪店/2f_Camera008_005_Camera002_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-e7702bfb-009.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/中兴快闪店/2f_Camera008_005_2f Camera008 004_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-e7702bfb-010.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/中兴快闪店/2f_Camera008_005_Camera009_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-e7702bfb-011.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/中兴快闪店/2f_Camera008_005_2f Camera008 003_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-e7702bfb-012.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/中兴快闪店/2f_Camera008_005_PhysCamera001_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-e7702bfb-013.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/中兴快闪店/2f_Camera008_005_2f Camera008 001_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-e7702bfb-014.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/中兴快闪店/2f_Camera008_005_Camera002 w_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-e7702bfb-015.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/中兴快闪店/2f_Camera008_005_Camera005_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-e7702bfb-016.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/中兴快闪店/2f_Camera008_005_Camera001_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-e7702bfb-017.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/中兴快闪店/2f_Camera008_005_2f Camera008 002_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-e7702bfb-018.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/中兴快闪店/2f_Camera008_005_Camera001 w_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-e7702bfb-019.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/中兴快闪店/2f_Camera008_005_Camera010_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-e7702bfb-020.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
@@ -109,63 +109,63 @@ window.ARCHIVE_DATA = {
                                              "count":  15,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/外星人活动/Camera022_Camera0230000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-8d294a86-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/外星人活动/Camera022_Camera0200000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-8d294a86-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/外星人活动/Camera022_Camera0270000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-8d294a86-003.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/外星人活动/Camera022_Camera0210000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-8d294a86-004.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/外星人活动/Camera022_Camera0250000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-8d294a86-005.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/外星人活动/Camera022_Camera0240000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-8d294a86-006.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/外星人活动/Camera022_Camera0160000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-8d294a86-007.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/外星人活动/Camera022_Camera0160000(1).jpg",
+                                                                "src":  "assets/archive-watermarked/pop-8d294a86-008.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/外星人活动/Camera022_Camera0260000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-8d294a86-009.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/外星人活动/Camera022_Camera0220000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-8d294a86-010.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/外星人活动/Camera022_Camera0170000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-8d294a86-011.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/外星人活动/Camera022_Camera0280000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-8d294a86-012.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/外星人活动/Camera022_Camera0290000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-8d294a86-013.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/外星人活动/Camera022_Camera0190000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-8d294a86-014.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/外星人活动/Camera022_Camera0180000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-8d294a86-015.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
@@ -180,19 +180,19 @@ window.ARCHIVE_DATA = {
                                              "count":  4,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/骆新书屋/室外_Camera0010000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-d3c0b21b-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/骆新书屋/C2_Camera0060000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-d3c0b21b-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/骆新书屋/C2_Camera0040000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-d3c0b21b-003.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/骆新书屋/C2_Camera0050000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-d3c0b21b-004.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
@@ -207,92 +207,92 @@ window.ARCHIVE_DATA = {
                                              "count":  22,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/联想智生活2.0大图_0608/Camera002_Camera0040000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-805d66d1-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/联想智生活2.0大图_0608/Camera002_Camera0130000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-805d66d1-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/联想智生活2.0大图_0608/Camera002_Camera0160000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-805d66d1-003.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/联想智生活2.0大图_0608/Camera002_Camera019 顶视图0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-805d66d1-004.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/联想智生活2.0大图_0608/Camera002_Camera0210000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-805d66d1-005.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/联想智生活2.0大图_0608/Camera002_Camera0230000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-805d66d1-006.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/联想智生活2.0大图_0608/Camera002_Camera0220000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-805d66d1-007.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/联想智生活2.0大图_0608/Camera002_Camera0150000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-805d66d1-008.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/联想智生活2.0大图_0608/Camera002_Camera0090000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-805d66d1-009.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/联想智生活2.0大图_0608/Camera002_Camera0250000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-805d66d1-010.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/联想智生活2.0大图_0608/Camera002_Camera0240000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-805d66d1-011.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/联想智生活2.0大图_0608/Camera002_Camera0020000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-805d66d1-012.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/联想智生活2.0大图_0608/Camera002_Camera020  隐藏岛0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-805d66d1-013.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/联想智生活2.0大图_0608/Camera002_Camera0010000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-805d66d1-014.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/联想智生活2.0大图_0608/Camera002_Camera0120000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-805d66d1-015.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/联想智生活2.0大图_0608/Camera002_Camera020  隐藏20000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-805d66d1-016.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/联想智生活2.0大图_0608/Camera002_Camera0030000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-805d66d1-017.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/联想智生活2.0大图_0608/Camera002_Camera0260000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-805d66d1-018.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/联想智生活2.0大图_0608/Camera002_Camera0200000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-805d66d1-019.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/联想智生活2.0大图_0608/Camera002_Camera0110000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-805d66d1-020.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/联想智生活2.0大图_0608/Camera002_Camera0100000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-805d66d1-021.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/联想智生活2.0大图_0608/63f59bdf62f9abb630bebb90ae1bc66.png",
-                                                                "type":  "png"
+                                                                "src":  "assets/archive-watermarked/pop-805d66d1-022.jpg",
+                                                                "type":  "jpg"
                                                             }
                                                         ]
                                          },
@@ -306,43 +306,43 @@ window.ARCHIVE_DATA = {
                                              "count":  10,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/人民日报时光博物馆/Camera012_PhysCamera002_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-1840dae5-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/人民日报时光博物馆/Camera012_Camera009_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-1840dae5-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/人民日报时光博物馆/Camera020_Camera013_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-1840dae5-003.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/人民日报时光博物馆/Camera020_Camera016_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-1840dae5-004.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/人民日报时光博物馆/Camera012_Camera011_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-1840dae5-005.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/人民日报时光博物馆/Camera012_Camera010_0000(1).jpg",
+                                                                "src":  "assets/archive-watermarked/pop-1840dae5-006.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/人民日报时光博物馆/Camera012_Camera008_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-1840dae5-007.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/人民日报时光博物馆/Camera012_Camera012_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-1840dae5-008.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/人民日报时光博物馆/Camera012_Camera001_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-1840dae5-009.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/人民日报时光博物馆/Camera020_Camera007_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-1840dae5-010.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
@@ -357,35 +357,35 @@ window.ARCHIVE_DATA = {
                                              "count":  8,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/石头科技快闪店/Camera010_Camera002_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-5ec44b22-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/石头科技快闪店/Camera010_Camera007_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-5ec44b22-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/石头科技快闪店/Camera010_Camera008_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-5ec44b22-003.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/石头科技快闪店/Camera010_Camera004_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-5ec44b22-004.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/石头科技快闪店/Camera010_Camera003_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-5ec44b22-005.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/石头科技快闪店/Camera010_Camera011_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-5ec44b22-006.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/石头科技快闪店/Camera010_Camera005_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-5ec44b22-007.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/石头科技快闪店/Camera010_Camera013_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-5ec44b22-008.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
@@ -400,39 +400,39 @@ window.ARCHIVE_DATA = {
                                              "count":  9,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/K歌宝快闪店活动/physcamera003_camera001_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-ad00d73-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/K歌宝快闪店活动/physcamera003_camera020_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-ad00d73-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/K歌宝快闪店活动/physcamera003_camera003_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-ad00d73-003.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/K歌宝快闪店活动/physcamera003_camera005_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-ad00d73-004.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/K歌宝快闪店活动/physcamera003_physcamera003_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-ad00d73-005.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/K歌宝快闪店活动/physcamera003_camera017_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-ad00d73-006.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/K歌宝快闪店活动/physcamera003_camera026_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-ad00d73-007.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/K歌宝快闪店活动/87934b6a7fc9ac2a7f51b90e37a2234.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-ad00d73-008.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/K歌宝快闪店活动/physcamera003_camera013_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-ad00d73-009.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
@@ -447,43 +447,43 @@ window.ARCHIVE_DATA = {
                                              "count":  10,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/爱奇艺道具展/c1_Camera006_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-7e4f77ad-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/爱奇艺道具展/c1_Camera015_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-7e4f77ad-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/爱奇艺道具展/c1_Camera004 w001_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-7e4f77ad-003.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/爱奇艺道具展/c1_Camera007_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-7e4f77ad-004.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/爱奇艺道具展/c1_Camera008_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-7e4f77ad-005.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/爱奇艺道具展/c1_Camera011_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-7e4f77ad-006.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/爱奇艺道具展/c1_Camera014_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-7e4f77ad-007.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/爱奇艺道具展/c1_Camera009_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-7e4f77ad-008.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/爱奇艺道具展/c1_Camera012_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-7e4f77ad-009.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/爱奇艺道具展/c1_Camera010_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-7e4f77ad-010.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
@@ -498,43 +498,43 @@ window.ARCHIVE_DATA = {
                                              "count":  10,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/哈啰电动车展/Camera006_Camera004_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-1fff1326-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/哈啰电动车展/Camera006_Camera022_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-1fff1326-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/哈啰电动车展/Camera006_Camera017_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-1fff1326-003.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/哈啰电动车展/Camera006_Camera026_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-1fff1326-004.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/哈啰电动车展/Camera006_Camera003_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-1fff1326-005.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/哈啰电动车展/Camera006_Camera008_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-1fff1326-006.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/哈啰电动车展/Camera006_Camera025_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-1fff1326-007.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/哈啰电动车展/Camera006_Camera016_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-1fff1326-008.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/哈啰电动车展/Camera006.bk.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-1fff1326-009.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/哈啰电动车展/Camera006_Camera006_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-1fff1326-010.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
@@ -549,19 +549,19 @@ window.ARCHIVE_DATA = {
                                              "count":  4,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/阶跃星辰/Camera008_PhysCamera002  0523_0000 - 副本.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-4ff3531a-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/阶跃星辰/Camera008_Camera002 0523_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-4ff3531a-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/阶跃星辰/Camera008_Camera005_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-4ff3531a-003.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/阶跃星辰/Camera008_Camera0 正交_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-4ff3531a-004.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
@@ -576,19 +576,19 @@ window.ARCHIVE_DATA = {
                                              "count":  4,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/京东物流展/Came123ra010.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-8ec5a90d-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/京东物流展/Camera010_Camera002_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-8ec5a90d-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/京东物流展/Camera010_Camera008_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-8ec5a90d-003.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/京东物流展/Camera010_Camera004_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-8ec5a90d-004.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
@@ -603,47 +603,47 @@ window.ARCHIVE_DATA = {
                                              "count":  11,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/旷视安博会/1_Camera0180000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-320b61be-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/旷视安博会/1_Camera020 yc0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-320b61be-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/旷视安博会/1_Camera033  yc0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-320b61be-003.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/旷视安博会/1_Camera0230000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-320b61be-004.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/旷视安博会/1_Camera032  yc0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-320b61be-005.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/旷视安博会/1_Camera0120000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-320b61be-006.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/旷视安博会/1_Camera0310000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-320b61be-007.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/旷视安博会/1_Camera0200000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-320b61be-008.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/旷视安博会/1_PhysCamera0010000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-320b61be-009.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/旷视安博会/1_Camera0270000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-320b61be-010.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/旷视安博会/1_Camera0130000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-320b61be-011.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
@@ -658,19 +658,19 @@ window.ARCHIVE_DATA = {
                                              "count":  4,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/旷视展区/Camera015_PhysCamera0010000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-27af4304-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/旷视展区/Camera015_Camera010000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-27af4304-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/旷视展区/Camera015_Camera0140000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-27af4304-003.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/旷视展区/Camera015_Camera0040000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-27af4304-004.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
@@ -685,19 +685,19 @@ window.ARCHIVE_DATA = {
                                              "count":  4,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/来酷快闪店/Camera009_Camera0080000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-1e4fdff4-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/来酷快闪店/Camera009_Camera003单独地面0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-1e4fdff4-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/来酷快闪店/Camera009_Camera0090000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-1e4fdff4-003.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/来酷快闪店/1123124412321.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-1e4fdff4-004.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
@@ -712,19 +712,19 @@ window.ARCHIVE_DATA = {
                                              "count":  4,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/联想服茂展/Camera024_Camera030_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-198bdad-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/联想服茂展/Camera024_Camera018_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-198bdad-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/联想服茂展/Camera024_Camera031_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-198bdad-003.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/联想服茂展/Camera024.bk02.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-198bdad-004.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
@@ -739,35 +739,35 @@ window.ARCHIVE_DATA = {
                                              "count":  8,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/绿源电动车南京车展_0923/Camera01_Camera034 w_0009.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-19e80caf-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/绿源电动车南京车展_0923/Camera01_Camera047 w_0009.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-19e80caf-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/绿源电动车南京车展_0923/Camera01.bk01.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-19e80caf-003.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/绿源电动车南京车展_0923/Camera01_Camera036 w_0009.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-19e80caf-004.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/绿源电动车南京车展_0923/Camera01_Camera029 w_0009.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-19e80caf-005.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/绿源电动车南京车展_0923/Camera01_Camera033_0009.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-19e80caf-006.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/绿源电动车南京车展_0923/Camera01_Camera046_0009.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-19e80caf-007.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/绿源电动车南京车展_0923/Camera01_Camera060_0009.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-19e80caf-008.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
@@ -782,19 +782,19 @@ window.ARCHIVE_DATA = {
                                              "count":  4,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/美团龙虾节活动/Camera003.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-4df8c082-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/美团龙虾节活动/Camera006.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-4df8c082-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/美团龙虾节活动/Camera005.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-4df8c082-003.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/快闪+会展+美陈/美团龙虾节活动/Camera009.bk05.jpg",
+                                                                "src":  "assets/archive-watermarked/pop-4df8c082-004.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
@@ -817,23 +817,23 @@ window.ARCHIVE_DATA = {
                                              "count":  5,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/H3C领航者峰会/Camera006_Camera0060000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-7e17bb9f-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/H3C领航者峰会/Camera006_Camera0050000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-7e17bb9f-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/H3C领航者峰会/Camera006_Camera0020000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-7e17bb9f-003.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/H3C领航者峰会/c1_Camera0070000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-7e17bb9f-004.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/H3C领航者峰会/c1_Camera0010000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-7e17bb9f-005.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
@@ -848,39 +848,39 @@ window.ARCHIVE_DATA = {
                                              "count":  9,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/XV慈善拍卖会/Camera0091_09_第一空间0002  0325_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-1d443a67-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/XV慈善拍卖会/Camera0091_09_第一空间0001  0325_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-1d443a67-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/XV慈善拍卖会/Camera0091_09_第二空间0002_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-1d443a67-003.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/XV慈善拍卖会/Camera0091_09_第二空间0001_0000(2).jpg",
+                                                                "src":  "assets/archive-watermarked/summit-1d443a67-004.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/XV慈善拍卖会/Camera0091_09_预展区0002_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-1d443a67-005.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/XV慈善拍卖会/Camera0091_09_第一空间0004  0325_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-1d443a67-006.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/XV慈善拍卖会/Camera006__Y_Camera0103_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-1d443a67-007.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/XV慈善拍卖会/Camera006__Y_Camera0083_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-1d443a67-008.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/XV慈善拍卖会/Camera002__1.6.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-1d443a67-009.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
@@ -895,24 +895,24 @@ window.ARCHIVE_DATA = {
                                              "count":  5,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/HICOOL2024-2025/Hicool第二版_2025_0506_1.mp4",
+                                                                "src":  "assets/archive-watermarked/summit-9a0f2de0-001.mp4",
                                                                 "type":  "mp4"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/HICOOL2024-2025/omni-61837acd-dcfc-4263-bba9-d3682a319513.png",
-                                                                "type":  "png"
-                                                            },
-                                                            {
-                                                                "src":  "作品项目分类/峰会_论坛/HICOOL2024-2025/Camera036 wt1002_Camera034  0815_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-9a0f2de0-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/HICOOL2024-2025/Camera036 wt1002_Camera032 07303_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-9a0f2de0-003.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/HICOOL2024-2025/omni-5ace5a17-a45e-4356-b689-944af463fc3c.png",
-                                                                "type":  "png"
+                                                                "src":  "assets/archive-watermarked/summit-9a0f2de0-004.jpg",
+                                                                "type":  "jpg"
+                                                            },
+                                                            {
+                                                                "src":  "assets/archive-watermarked/summit-9a0f2de0-005.jpg",
+                                                                "type":  "jpg"
                                                             }
                                                         ]
                                          },
@@ -926,55 +926,55 @@ window.ARCHIVE_DATA = {
                                              "count":  13,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/TCL全球合作伙伴大会/Camera043   0412_Camera045_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-dcc36944-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/TCL全球合作伙伴大会/Camera043   0412_Camera016 0409_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-dcc36944-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/TCL全球合作伙伴大会/Camera043   0412_Camera027  0408_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-dcc36944-003.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/TCL全球合作伙伴大会/Camera043   0412_PhysCamera004  0408_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-dcc36944-004.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/TCL全球合作伙伴大会/Camera043   0412_Camera020 0407_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-dcc36944-005.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/TCL全球合作伙伴大会/Camera043   0412_Camera031 0408_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-dcc36944-006.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/TCL全球合作伙伴大会/Camera043   0412_Camera05123211 0410_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-dcc36944-007.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/TCL全球合作伙伴大会/Camera043   0412_Camera028  0409_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-dcc36944-008.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/TCL全球合作伙伴大会/Camera043   0412_Camera044_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-dcc36944-009.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/TCL全球合作伙伴大会/Camera043   0412_Camera048 0410_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-dcc36944-010.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/TCL全球合作伙伴大会/Camera043   0412_Camera045  0412_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-dcc36944-011.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/TCL全球合作伙伴大会/Camera034   0404.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-dcc36944-012.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/TCL全球合作伙伴大会/Camera034   0404_Camera013 wwwwwwww004_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-dcc36944-013.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
@@ -989,15 +989,15 @@ window.ARCHIVE_DATA = {
                                              "count":  3,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/福临门发布会/Camera001_w_Camera001 w001_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-b2cbb1e3-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/福临门发布会/Camera001_w_Camera001 w_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-b2cbb1e3-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/福临门发布会/Camera001_w_Camera001 w002_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-b2cbb1e3-003.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
@@ -1012,19 +1012,19 @@ window.ARCHIVE_DATA = {
                                              "count":  4,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/哈啰电动车/Camera002_Camera0020000(1).png",
-                                                                "type":  "png"
-                                                            },
-                                                            {
-                                                                "src":  "作品项目分类/峰会_论坛/哈啰电动车/Camera002_Camera0130000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-44da518f-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/哈啰电动车/Camera002_Camera0040000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-44da518f-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/哈啰电动车/Camera002_Camera0030000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-44da518f-003.jpg",
+                                                                "type":  "jpg"
+                                                            },
+                                                            {
+                                                                "src":  "assets/archive-watermarked/summit-44da518f-004.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
@@ -1039,19 +1039,19 @@ window.ARCHIVE_DATA = {
                                              "count":  4,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/剑南春品鉴会/Camera014_Camera014 w_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-801792d2-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/剑南春品鉴会/Camera014_Camera014 w002_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-801792d2-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/剑南春品鉴会/Camera014_Camera015_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-801792d2-003.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/剑南春品鉴会/Camera014.bk01.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-801792d2-004.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
@@ -1066,15 +1066,15 @@ window.ARCHIVE_DATA = {
                                              "count":  3,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/江小白猫与蝶发布会/1116_Camera002 w_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-eac57546-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/江小白猫与蝶发布会/1116123.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-eac57546-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/江小白猫与蝶发布会/1116_Camera004  中场_0000(1).jpg",
+                                                                "src":  "assets/archive-watermarked/summit-eac57546-003.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
@@ -1089,55 +1089,55 @@ window.ARCHIVE_DATA = {
                                              "count":  13,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/京东全球大会/Camera007_Camera005_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-d4c12d46-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/京东全球大会/Camera007_Camera004_0000 - 副本.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-d4c12d46-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/京东全球大会/Camera007_Camera004_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-d4c12d46-003.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/京东全球大会/Camera019_Camera007_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-d4c12d46-004.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/京东全球大会/Camera019_Camera028_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-d4c12d46-005.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/京东全球大会/Camera019_Camera003 wt_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-d4c12d46-006.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/京东全球大会/Camera019_Camera019_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-d4c12d46-007.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/京东全球大会/Camera019_Camera015_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-d4c12d46-008.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/京东全球大会/Camera019_Camera017_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-d4c12d46-009.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/京东全球大会/Camera019_Camera012_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-d4c12d46-010.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/京东全球大会/Camera019_Camera014_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-d4c12d46-011.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/京东全球大会/Camera019_Camera008_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-d4c12d46-012.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/京东全球大会/Camera019_Camera006_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-d4c12d46-013.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
@@ -1152,15 +1152,15 @@ window.ARCHIVE_DATA = {
                                              "count":  3,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/快手磁力金牛/Camera012_Camera009_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-e7ee0484-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/快手磁力金牛/Camera012_Camera019_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-e7ee0484-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/快手磁力金牛/Camera012_Camera006_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-e7ee0484-003.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
@@ -1175,23 +1175,23 @@ window.ARCHIVE_DATA = {
                                              "count":  5,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/泸州老窖巴黎推介会/Camera007_Camera004_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-66cc00a2-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/泸州老窖巴黎推介会/Camera007_Camera003_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-66cc00a2-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/泸州老窖巴黎推介会/Camera007_Camera012_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-66cc00a2-003.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/泸州老窖巴黎推介会/Camera007_Camera010_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-66cc00a2-004.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/泸州老窖巴黎推介会/Camera005.bk02.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-66cc00a2-005.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
@@ -1206,27 +1206,27 @@ window.ARCHIVE_DATA = {
                                              "count":  6,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/泸州老窖冰雪项目/c23_Camera001_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-783b0bc2-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/泸州老窖冰雪项目/c23_Camera008_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-783b0bc2-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/泸州老窖冰雪项目/c23_Camera010_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-783b0bc2-003.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/泸州老窖冰雪项目/微信图片_20260407180621_466_40.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-783b0bc2-004.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/泸州老窖冰雪项目/Camera0017_PhysCamera001 w_0017.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-783b0bc2-005.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/泸州老窖冰雪项目/Camera0017_Camera001_0017.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-783b0bc2-006.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
@@ -1241,39 +1241,39 @@ window.ARCHIVE_DATA = {
                                              "count":  9,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/武汉川酒全国行/615_Camera013_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-56076809-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/武汉川酒全国行/615_Camera019_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-56076809-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/武汉川酒全国行/615_Camera014_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-56076809-003.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/武汉川酒全国行/615_Camera016_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-56076809-004.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/武汉川酒全国行/615_Camera032_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-56076809-005.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/武汉川酒全国行/615_Camera015_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-56076809-006.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/武汉川酒全国行/615_Camera033_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-56076809-007.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/武汉川酒全国行/615_Camera029_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-56076809-008.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/武汉川酒全国行/615_Camera031_0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-56076809-009.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
@@ -1288,47 +1288,47 @@ window.ARCHIVE_DATA = {
                                              "count":  11,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/中粮新品发布会/Camera0011_Camera005_ColorChannel0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-b9856e00-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/中粮新品发布会/Camera020123213123_1.00000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-b9856e00-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/中粮新品发布会/Camera0011_Camera0080000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-b9856e00-003.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/中粮新品发布会/KF最终版1225_Camera004舞台0010000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-b9856e00-004.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/中粮新品发布会/KF最终版1225_Camera007舞台0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-b9856e00-005.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/中粮新品发布会/KF最终版1225_Camera007舞台0000(1).jpg",
+                                                                "src":  "assets/archive-watermarked/summit-b9856e00-006.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/中粮新品发布会/Camera020123213_Camera020_AO0000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-b9856e00-007.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/中粮新品发布会/Camera020123213_特殊10000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-b9856e00-008.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/中粮新品发布会/Camera020123213_PhysCamera0030000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-b9856e00-009.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/中粮新品发布会/Camera020123213_Camera0200000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-b9856e00-010.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/峰会_论坛/中粮新品发布会/Camera020123213_Camera0150000.jpg",
+                                                                "src":  "assets/archive-watermarked/summit-b9856e00-011.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
@@ -1351,163 +1351,163 @@ window.ARCHIVE_DATA = {
                                              "count":  40,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/A-9-中庭日景.png",
-                                                                "type":  "png"
-                                                            },
-                                                            {
-                                                                "src":  "作品项目分类/工装/中关村/A-10-中庭夜景.png",
-                                                                "type":  "png"
-                                                            },
-                                                            {
-                                                                "src":  "作品项目分类/工装/中关村/A-36卫生间展开07.png",
-                                                                "type":  "png"
-                                                            },
-                                                            {
-                                                                "src":  "作品项目分类/工装/中关村/A-4-a.png",
-                                                                "type":  "png"
-                                                            },
-                                                            {
-                                                                "src":  "作品项目分类/工装/中关村/A-25.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/A-27-a.png",
-                                                                "type":  "png"
-                                                            },
-                                                            {
-                                                                "src":  "作品项目分类/工装/中关村/A-8.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/A-37卫生间展开08.png",
-                                                                "type":  "png"
-                                                            },
-                                                            {
-                                                                "src":  "作品项目分类/工装/中关村/A-5.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-003.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/A-21.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-004.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/A-33卫生间04.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-005.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/A-6.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-006.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/A-29.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-007.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/A-7.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-008.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/A-19.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-009.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/A-4.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-010.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/A-2.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-011.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/A-3.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-012.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/A-34卫生间05.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-013.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/A-35卫生间06.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-014.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/A-1.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-015.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/A-20.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-016.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/A-24.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-017.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/e19e2a146ae3459c9895e4455d80e03.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-018.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/A-32卫生间03.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-019.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/A-26.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-020.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/A-27.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-021.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/A-28.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-022.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/A-11.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-023.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/A-16.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-024.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/A-22.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-025.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/A-18.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-026.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/A-17.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-027.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/A-30卫生间01.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-028.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/A-23.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-029.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/A-12.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-030.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/A-31卫生间02.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-031.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/A-14.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-032.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/A-15.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-033.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/中关村/A-13.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-034.jpg",
+                                                                "type":  "jpg"
+                                                            },
+                                                            {
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-035.jpg",
+                                                                "type":  "jpg"
+                                                            },
+                                                            {
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-036.jpg",
+                                                                "type":  "jpg"
+                                                            },
+                                                            {
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-037.jpg",
+                                                                "type":  "jpg"
+                                                            },
+                                                            {
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-038.jpg",
+                                                                "type":  "jpg"
+                                                            },
+                                                            {
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-039.jpg",
+                                                                "type":  "jpg"
+                                                            },
+                                                            {
+                                                                "src":  "assets/archive-watermarked/commercial-fb568647-040.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
@@ -1522,31 +1522,31 @@ window.ARCHIVE_DATA = {
                                              "count":  7,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/工装/上海静安商场集市/圣老师c3.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-d31a54a5-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/上海静安商场集市/圣老师c5.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-d31a54a5-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/上海静安商场集市/圣老师c2.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-d31a54a5-003.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/上海静安商场集市/静安集市c4_Camera0040000.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-d31a54a5-004.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/上海静安商场集市/静安集市c1_auto_Camera001.RGB_color.0000.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-d31a54a5-005.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/上海静安商场集市/上海静安b1-2.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-d31a54a5-006.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/上海静安商场集市/静安 印花电梯.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-d31a54a5-007.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
@@ -1561,15 +1561,15 @@ window.ARCHIVE_DATA = {
                                              "count":  3,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/工装/岳阳阳光100/0710夜景_Camera004000011.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-506479af-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/岳阳阳光100/0710_Camera0040000.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-506479af-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/岳阳阳光100/0710_Camera0060000.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-506479af-003.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
@@ -1584,19 +1584,19 @@ window.ARCHIVE_DATA = {
                                              "count":  4,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/工装/南通老街项目/c1_Camera0040000.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-37787ce8-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/南通老街项目/c1_auto_Camera001.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-37787ce8-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/南通老街项目/c1_Camera0020000.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-37787ce8-003.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/南通老街项目/老街6.4门头ps.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-37787ce8-004.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
@@ -1611,19 +1611,19 @@ window.ARCHIVE_DATA = {
                                              "count":  4,
                                              "images":  [
                                                             {
-                                                                "src":  "作品项目分类/工装/其他街区/第三街区xu_0614大图版本_Camera0051.00000.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-6235b851-001.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/其他街区/第三街区xu_0614大图版本_Camera0041.7700001.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-6235b851-002.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/其他街区/c6e1229b10dbb487eb934f23a9cc9f4.jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-6235b851-003.jpg",
                                                                 "type":  "jpg"
                                                             },
                                                             {
-                                                                "src":  "作品项目分类/工装/其他街区/Camera001_Camera0010000(1).jpg",
+                                                                "src":  "assets/archive-watermarked/commercial-6235b851-004.jpg",
                                                                 "type":  "jpg"
                                                             }
                                                         ]
