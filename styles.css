@@ -48,6 +48,10 @@ img {
   max-width: 100%;
 }
 
+.desktop-stage {
+  display: contents;
+}
+
 button {
   font: inherit;
 }
@@ -1390,6 +1394,291 @@ body.transitioning .ripple-transition::after {
     bottom: 38px;
     height: 126px;
   }
+}
+
+@media (min-width: 1181px) {
+  .stage-lock body {
+    overflow-x: hidden;
+  }
+
+  .stage-lock .site-header {
+    width: 1920px;
+    left: 50%;
+    right: auto;
+    height: 104px;
+    padding: 0 96px;
+    grid-template-columns: 320px minmax(560px, 1fr) 230px;
+    transform: translateX(-50%) scale(var(--stage-scale));
+    transform-origin: top center;
+  }
+
+  .stage-lock .main-nav {
+    gap: 80px;
+  }
+
+  .stage-lock .page-index {
+    right: var(--stage-index-right);
+    gap: 62px;
+    transform: translateY(-50%) scale(var(--stage-scale));
+    transform-origin: center right;
+  }
+
+  .screen {
+    height: 100vh;
+    min-height: 0;
+    padding: 0;
+  }
+
+  .desktop-stage {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 1920px;
+    height: 1080px;
+    display: block;
+    overflow: hidden;
+    transform: translate(-50%, -50%) scale(var(--stage-scale));
+    transform-origin: center;
+    isolation: isolate;
+  }
+
+  .home-screen {
+    display: block;
+  }
+
+  .hero-copy {
+    position: absolute;
+    left: 7.4%;
+    top: 17.6%;
+    width: 650px;
+    margin: 0;
+  }
+
+  .hero-copy .kicker {
+    margin-bottom: 28px;
+  }
+
+  .hero-copy h1 {
+    font-size: 122px;
+    line-height: 0.95;
+  }
+
+  .hero-copy h2 {
+    margin: 30px 0 20px;
+    font-size: 33px;
+  }
+
+  .body-copy {
+    margin: 7px 0;
+    font-size: 19px;
+    line-height: 1.72;
+  }
+
+  .hero-actions {
+    margin-top: 36px;
+  }
+
+  .home-guide {
+    left: 7.4%;
+    bottom: 6.2%;
+    width: 980px;
+    min-height: 104px;
+    padding: 14px 30px;
+  }
+
+  .home-guide a {
+    min-height: 66px;
+  }
+
+  .about-copy {
+    left: 50%;
+    top: 15.8%;
+    width: 790px;
+  }
+
+  .about-portrait-frame {
+    left: 5.6%;
+    top: 10.8%;
+    width: 36.9%;
+    height: 81.8%;
+  }
+
+  .about-copy h2 {
+    font-size: 70px;
+    line-height: 1.16;
+  }
+
+  .about-copy .short-rule {
+    margin: 22px 0;
+  }
+
+  .about-copy p {
+    font-size: 18px;
+    line-height: 1.62;
+  }
+
+  .about-stats {
+    margin: 32px 0 24px;
+  }
+
+  .about-stats strong {
+    font-size: 58px;
+  }
+
+  .about-stats span {
+    margin-top: 9px;
+    line-height: 1.55;
+  }
+
+  .tag-row {
+    display: flex;
+    gap: 20px;
+    margin-top: 50px;
+  }
+
+  .capability-panel {
+    left: 50%;
+    right: 5.1%;
+    top: 76%;
+    bottom: auto;
+    min-height: 128px;
+  }
+
+  .capability-panel article {
+    padding: 24px 38px;
+  }
+
+  .capability-panel strong {
+    font-size: 20px;
+  }
+
+  .capability-panel p {
+    margin-top: 12px;
+    font-size: 16px;
+    line-height: 1.65;
+  }
+
+  .archive-gate {
+    top: 52%;
+    width: 360px;
+    height: 420px;
+    transform: translate(-50%, -50%);
+  }
+
+  .archive-gate small {
+    margin-top: 0;
+  }
+
+  .archive-gate strong {
+    margin-top: 24px;
+    font-size: 40px;
+    line-height: 1.16;
+  }
+
+  .archive-gate em {
+    margin-top: 20px;
+  }
+
+  .archive-gate b {
+    margin-top: 34px;
+  }
+
+  .process-copy {
+    position: absolute;
+    left: 7.4%;
+    top: 17.5%;
+    max-width: 630px;
+    margin: 0;
+  }
+
+  .process-copy .kicker {
+    margin-bottom: 28px;
+  }
+
+  .process-copy h2 {
+    font-size: 118px;
+    line-height: 0.95;
+  }
+
+  .process-copy h3 {
+    margin: 28px 0 22px;
+    font-size: 29px;
+  }
+
+  .process-copy p {
+    margin: 7px 0;
+    font-size: 17px;
+    line-height: 1.68;
+  }
+
+  .steps {
+    bottom: 7.2%;
+    height: 174px;
+  }
+
+  .steps span {
+    font-size: 47px;
+  }
+
+  .steps strong {
+    font-size: 16px;
+  }
+
+  .steps b {
+    margin-top: 8px;
+    font-size: 24px;
+  }
+
+  .steps p {
+    max-width: 360px;
+    margin-top: 26px;
+    font-size: 16px;
+    line-height: 1.78;
+  }
+
+  .steps article:nth-child(1) {
+    left: 15.2%;
+  }
+
+  .steps article:nth-child(2) {
+    left: 50%;
+  }
+
+  .steps article:nth-child(3) {
+    left: 83%;
+  }
+
+  .contact-copy {
+    position: absolute;
+    left: 7.4%;
+    top: 18.5%;
+    width: 720px;
+  }
+
+  .contact-copy h2 {
+    font-size: 145px;
+  }
+
+  .contact-copy h3 {
+    margin: 36px 0 46px;
+    font-size: 32px;
+  }
+
+  .qr-card {
+    margin-top: 58px;
+  }
+
+  .pos-1 { left: 3.8%; top: 21.5%; width: 9.2%; height: 27.2%; }
+  .pos-2 { left: 16.7%; top: 19%; width: 13.3%; height: 15.6%; }
+  .pos-3 { left: 15.4%; top: 39.2%; width: 19%; height: 21%; }
+  .pos-4 { left: 3.9%; top: 58.2%; width: 9.2%; height: 27.4%; }
+  .pos-5 { left: 13.4%; top: 70.5%; width: 16.2%; height: 17.4%; }
+  .pos-6 { right: 19.2%; top: 18.6%; width: 14.2%; height: 15.8%; }
+  .pos-7 { right: 15.5%; top: 37.5%; width: 17.6%; height: 19.2%; }
+  .pos-8 { right: 4%; top: 23%; width: 9.4%; height: 27%; }
+  .pos-9 { right: 4.1%; top: 58.8%; width: 9.4%; height: 27.2%; }
+  .pos-10 { right: 19.3%; top: 56.5%; width: 14.2%; height: 15.8%; }
+  .pos-11 { right: 13.9%; top: 70.1%; width: 12%; height: 14.2%; }
 }
 
 @media (prefers-reduced-motion: reduce) {

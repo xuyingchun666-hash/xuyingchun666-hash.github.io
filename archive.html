@@ -4,7 +4,19 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Project Archive | Yingchun Xu</title>
-    <link rel="stylesheet" href="archive.css" />
+    <script>
+      (() => {
+        const setStageScale = () => {
+          const scale = Math.min(window.innerWidth / 1920, window.innerHeight / 1080);
+          document.documentElement.style.setProperty("--stage-scale", scale.toFixed(5));
+          document.documentElement.style.setProperty("--stage-side", `${Math.max(0, (window.innerWidth - 1920 * scale) / 2).toFixed(2)}px`);
+          document.documentElement.classList.toggle("stage-lock", window.innerWidth >= 981);
+        };
+        setStageScale();
+        window.addEventListener("resize", setStageScale, { passive: true });
+      })();
+    </script>
+    <link rel="stylesheet" href="archive.css?v=stage-lock-1920" />
   </head>
   <body>
     <header class="site-header">

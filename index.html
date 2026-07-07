@@ -5,7 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Yingchun Xu | Spatial & Visual Designer</title>
     <link rel="preload" as="image" href="assets/generated/home-bg-clean-v3.png" fetchpriority="high" />
-    <link rel="stylesheet" href="styles.css?v=desktop-overlap-fix" />
+    <script>
+      (() => {
+        const setStageScale = () => {
+          const scale = Math.min(window.innerWidth / 1920, window.innerHeight / 1080);
+          document.documentElement.style.setProperty("--stage-scale", scale.toFixed(5));
+          document.documentElement.style.setProperty("--stage-side", `${Math.max(0, (window.innerWidth - 1920 * scale) / 2).toFixed(2)}px`);
+          document.documentElement.style.setProperty("--stage-index-right", `${(Math.max(0, (window.innerWidth - 1920 * scale) / 2) + 108 * scale).toFixed(2)}px`);
+          document.documentElement.classList.toggle("stage-lock", window.innerWidth >= 1181);
+        };
+        setStageScale();
+        window.addEventListener("resize", setStageScale, { passive: true });
+      })();
+    </script>
+    <link rel="stylesheet" href="styles.css?v=stage-lock-1920" />
   </head>
   <body>
     <header class="site-header">
@@ -33,119 +46,129 @@
 
     <main>
       <section id="home" class="screen home-screen" data-page="home">
-        <img class="section-bg home-bg" src="assets/generated/home-bg-clean-v3.png" alt="" decoding="async" fetchpriority="high" />
-        <div class="hero-copy">
-          <p class="kicker"><span></span> SPATIAL &amp; VISUAL DESIGN</p>
-          <h1 class="hover-title">DESIGN<br />THAT FEELS.</h1>
-          <h2>为空间注入情绪与秩序</h2>
-          <p class="body-copy">商业空间、展陈视觉与品牌活动体验设计。</p>
-          <p class="body-copy">从概念构想到方案深化，帮助想法更清晰地落地。</p>
-          <div class="hero-actions">
-            <a class="pill-button glow-target" href="#works">VIEW WORKS <span>↗</span></a>
-            <a class="line-button" href="#about">ABOUT ME</a>
+        <div class="desktop-stage">
+          <img class="section-bg home-bg" src="assets/generated/home-bg-clean-v3.png" alt="" decoding="async" fetchpriority="high" />
+          <div class="hero-copy">
+            <p class="kicker"><span></span> SPATIAL &amp; VISUAL DESIGN</p>
+            <h1 class="hover-title">DESIGN<br />THAT FEELS.</h1>
+            <h2>为空间注入情绪与秩序</h2>
+            <p class="body-copy">商业空间、展陈视觉与品牌活动体验设计。</p>
+            <p class="body-copy">从概念构想到方案深化，帮助想法更清晰地落地。</p>
+            <div class="hero-actions">
+              <a class="pill-button glow-target" href="#works">VIEW WORKS <span>↗</span></a>
+              <a class="line-button" href="#about">ABOUT ME</a>
+            </div>
           </div>
-        </div>
-        <div class="home-guide compact-guide" aria-label="Site guide">
-          <a href="#works"><strong>WORKS</strong><span>精选项目</span></a>
-          <a href="archive.html"><strong>ARCHIVE</strong><span>完整档案</span></a>
-          <a href="#process"><strong>PROCESS</strong><span>工作方法</span></a>
-          <a href="#about"><strong>EXPLORE</strong><span>继续浏览</span></a>
+          <div class="home-guide compact-guide" aria-label="Site guide">
+            <a href="#works"><strong>WORKS</strong><span>精选项目</span></a>
+            <a href="archive.html"><strong>ARCHIVE</strong><span>完整档案</span></a>
+            <a href="#process"><strong>PROCESS</strong><span>工作方法</span></a>
+            <a href="#about"><strong>EXPLORE</strong><span>继续浏览</span></a>
+          </div>
         </div>
       </section>
 
       <section id="about" class="screen about-screen" data-page="about">
-        <img class="section-bg" src="assets/generated/about-bg-clean-v4.png" alt="" loading="lazy" decoding="async" />
-        <span class="about-portrait-frame" aria-hidden="true"></span>
-        <div class="about-copy">
-          <p class="kicker">ABOUT / 3D SPATIAL DESIGNER</p>
-          <h2 class="hover-title">把空间想法，<br />做成可感知的现场。</h2>
-          <i class="short-rule"></i>
-          <p>专注于商业空间、展陈策划与品牌活动的视觉落地。</p>
-          <p>从概念方向、空间氛围到效果表现，构建兼具美学、功能与传播感的现场体验。</p>
-          <p>让每一次呈现，都更清晰、更准确地被看见。</p>
-          <div class="about-stats">
-            <article><strong>7</strong><span>YEARS<br />行业经验</span></article>
-            <article><strong>30+</strong><span>PROJECTS<br />项目经验</span></article>
-            <article><strong>PMP</strong><span>CERTIFIED<br />项目管理认证</span></article>
+        <div class="desktop-stage">
+          <img class="section-bg" src="assets/generated/about-bg-clean-v4.png" alt="" loading="lazy" decoding="async" />
+          <span class="about-portrait-frame" aria-hidden="true"></span>
+          <div class="about-copy">
+            <p class="kicker">ABOUT / 3D SPATIAL DESIGNER</p>
+            <h2 class="hover-title">把空间想法，<br />做成可感知的现场。</h2>
+            <i class="short-rule"></i>
+            <p>专注于商业空间、展陈策划与品牌活动的视觉落地。</p>
+            <p>从概念方向、空间氛围到效果表现，构建兼具美学、功能与传播感的现场体验。</p>
+            <p>让每一次呈现，都更清晰、更准确地被看见。</p>
+            <div class="about-stats">
+              <article><strong>7</strong><span>YEARS<br />行业经验</span></article>
+              <article><strong>30+</strong><span>PROJECTS<br />项目经验</span></article>
+              <article><strong>PMP</strong><span>CERTIFIED<br />项目管理认证</span></article>
+            </div>
+            <div class="tag-row">
+              <span>Spatial Design</span>
+              <span>Brand Event</span>
+              <span>Pop-up</span>
+              <span>Visual Concept</span>
+            </div>
           </div>
-          <div class="tag-row">
-            <span>Spatial Design</span>
-            <span>Brand Event</span>
-            <span>Pop-up</span>
-            <span>Visual Concept</span>
+          <div class="capability-panel">
+            <article><strong>空间叙事</strong><p>以空间为媒介，组织品牌信息、动线与现场情绪。</p></article>
+            <article><strong>展陈视觉</strong><p>把主题、材料、灯光与画面整合成可落地的视觉方案。</p></article>
+            <article><strong>项目统筹</strong><p>从策略、设计到落地推进，保持节奏清晰与交付稳定。</p></article>
           </div>
-        </div>
-        <div class="capability-panel">
-          <article><strong>空间叙事</strong><p>以空间为媒介，组织品牌信息、动线与现场情绪。</p></article>
-          <article><strong>展陈视觉</strong><p>把主题、材料、灯光与画面整合成可落地的视觉方案。</p></article>
-          <article><strong>项目统筹</strong><p>从策略、设计到落地推进，保持节奏清晰与交付稳定。</p></article>
         </div>
       </section>
 
       <section id="works" class="screen works-screen" data-page="works">
-        <img class="section-bg" src="assets/generated/works-door-clean.png" alt="" loading="lazy" decoding="async" />
-        <button class="archive-gate glow-target" type="button" aria-label="Enter design archive">
-          <span class="gate-dot"></span>
-          <small>FEATURED WORKS</small>
-          <strong class="hover-title">DESIGN<br />ARCHIVE.</strong>
-          <em>档案馆</em>
-          <b>ENTER ARCHIVE / 进入档案馆</b>
-        </button>
-        <div class="featured-cloud" aria-label="Featured works">
-          <article class="work-card pos-1"><img src="assets/featured/optimized/work-01-stage.jpg" data-full="assets/featured/图片1.png" alt="Stage design featured work" loading="lazy" decoding="async" /><span>01 STAGE DESIGN</span><b>舞台视觉</b></article>
-          <article class="work-card pos-2"><img src="assets/featured/optimized/work-02-retail.jpg" data-full="assets/featured/图片10.png" alt="Retail space featured work" loading="lazy" decoding="async" /><span>02 RETAIL SPACE</span><b>零售空间</b></article>
-          <article class="work-card pos-3"><img src="assets/featured/optimized/work-03-concept.jpg" data-full="assets/featured/ChatGPT Image 2026年6月30日 18_37_00 (1).png" alt="Concept space featured work" loading="lazy" decoding="async" /><span>03 CONCEPT SPACE</span><b>概念空间</b></article>
-          <article class="work-card pos-4"><img src="assets/featured/optimized/work-04-ue5.jpg" data-full="assets/featured/ChatGPT Image 2026年6月30日 17_38_54 (3).png" alt="UE5 vision featured work" loading="lazy" decoding="async" /><span>04 UE5 VISION</span><b>视觉实验</b></article>
-          <article class="work-card pos-5"><img src="assets/featured/optimized/work-05-popup.jpg" data-full="assets/featured/movie_00378.png" alt="Pop-up store featured work" loading="lazy" decoding="async" /><span>05 POP-UP STORE</span><b>快闪体验</b></article>
-          <article class="work-card pos-6"><img src="assets/featured/optimized/work-06-summit.jpg" data-full="assets/featured/图片13.png" alt="Summit space featured work" loading="lazy" decoding="async" /><span>06 SUMMIT SPACE</span><b>峰会空间</b></article>
-          <article class="work-card pos-7"><img src="assets/featured/optimized/work-07-event.jpg" data-full="assets/featured/图片8.png" alt="Brand event featured work" loading="lazy" decoding="async" /><span>07 BRAND EVENT</span><b>品牌活动</b></article>
-          <article class="work-card pos-8"><img src="assets/featured/optimized/work-08-culture.jpg" data-full="assets/featured/Camera0091_09_第二空间0001_0000(2).jpg" alt="Culture retail featured work" loading="lazy" decoding="async" /><span>08 CULTURE RETAIL</span><b>文化商业</b></article>
-          <article class="work-card pos-9"><img src="assets/featured/optimized/work-09-experience.jpg" data-full="assets/featured/图片12.png" alt="Experience space featured work" loading="lazy" decoding="async" /><span>09 EXPERIENCE SPACE</span><b>体验空间</b></article>
-          <article class="work-card pos-10"><img src="assets/featured/optimized/work-10-exhibition.jpg" data-full="assets/featured/图片11.png" alt="Exhibition space featured work" loading="lazy" decoding="async" /><span>10 EXHIBITION</span><b>展陈空间</b></article>
-          <article class="work-card pos-11"><img src="assets/featured/optimized/work-11-installation.jpg" data-full="assets/featured/图片6.png" alt="Installation featured work" loading="lazy" decoding="async" /><span>11 INSTALLATION</span><b>艺术装置</b></article>
+        <div class="desktop-stage">
+          <img class="section-bg" src="assets/generated/works-door-clean.png" alt="" loading="lazy" decoding="async" />
+          <button class="archive-gate glow-target" type="button" aria-label="Enter design archive">
+            <span class="gate-dot"></span>
+            <small>FEATURED WORKS</small>
+            <strong class="hover-title">DESIGN<br />ARCHIVE.</strong>
+            <em>档案馆</em>
+            <b>ENTER ARCHIVE / 进入档案馆</b>
+          </button>
+          <div class="featured-cloud" aria-label="Featured works">
+            <article class="work-card pos-1"><img src="assets/featured/optimized/work-01-stage.jpg" data-full="assets/featured/图片1.png" alt="Stage design featured work" loading="lazy" decoding="async" /><span>01 STAGE DESIGN</span><b>舞台视觉</b></article>
+            <article class="work-card pos-2"><img src="assets/featured/optimized/work-02-retail.jpg" data-full="assets/featured/图片10.png" alt="Retail space featured work" loading="lazy" decoding="async" /><span>02 RETAIL SPACE</span><b>零售空间</b></article>
+            <article class="work-card pos-3"><img src="assets/featured/optimized/work-03-concept.jpg" data-full="assets/featured/ChatGPT Image 2026年6月30日 18_37_00 (1).png" alt="Concept space featured work" loading="lazy" decoding="async" /><span>03 CONCEPT SPACE</span><b>概念空间</b></article>
+            <article class="work-card pos-4"><img src="assets/featured/optimized/work-04-ue5.jpg" data-full="assets/featured/ChatGPT Image 2026年6月30日 17_38_54 (3).png" alt="UE5 vision featured work" loading="lazy" decoding="async" /><span>04 UE5 VISION</span><b>视觉实验</b></article>
+            <article class="work-card pos-5"><img src="assets/featured/optimized/work-05-popup.jpg" data-full="assets/featured/movie_00378.png" alt="Pop-up store featured work" loading="lazy" decoding="async" /><span>05 POP-UP STORE</span><b>快闪体验</b></article>
+            <article class="work-card pos-6"><img src="assets/featured/optimized/work-06-summit.jpg" data-full="assets/featured/图片13.png" alt="Summit space featured work" loading="lazy" decoding="async" /><span>06 SUMMIT SPACE</span><b>峰会空间</b></article>
+            <article class="work-card pos-7"><img src="assets/featured/optimized/work-07-event.jpg" data-full="assets/featured/图片8.png" alt="Brand event featured work" loading="lazy" decoding="async" /><span>07 BRAND EVENT</span><b>品牌活动</b></article>
+            <article class="work-card pos-8"><img src="assets/featured/optimized/work-08-culture.jpg" data-full="assets/featured/Camera0091_09_第二空间0001_0000(2).jpg" alt="Culture retail featured work" loading="lazy" decoding="async" /><span>08 CULTURE RETAIL</span><b>文化商业</b></article>
+            <article class="work-card pos-9"><img src="assets/featured/optimized/work-09-experience.jpg" data-full="assets/featured/图片12.png" alt="Experience space featured work" loading="lazy" decoding="async" /><span>09 EXPERIENCE SPACE</span><b>体验空间</b></article>
+            <article class="work-card pos-10"><img src="assets/featured/optimized/work-10-exhibition.jpg" data-full="assets/featured/图片11.png" alt="Exhibition space featured work" loading="lazy" decoding="async" /><span>10 EXHIBITION</span><b>展陈空间</b></article>
+            <article class="work-card pos-11"><img src="assets/featured/optimized/work-11-installation.jpg" data-full="assets/featured/图片6.png" alt="Installation featured work" loading="lazy" decoding="async" /><span>11 INSTALLATION</span><b>艺术装置</b></article>
+          </div>
         </div>
       </section>
 
       <section id="process" class="screen process-screen" data-page="process">
-        <img class="section-bg" src="assets/generated/process-bg-clean-v4.png" alt="" loading="lazy" decoding="async" />
-        <div class="process-copy">
-          <p class="kicker"><span></span> MY PROCESS</p>
-          <h2 class="hover-title">HOW I WORK.</h2>
-          <h3>通过过程，让想法变得清晰可感。</h3>
-          <p>每个项目都从理解目标开始，</p>
-          <p>再把抽象需求、空间逻辑和体验叙事，</p>
-          <p>整理成可以推进、可以落地的方案。</p>
-        </div>
-        <div class="process-line"></div>
-        <div class="steps">
-          <article><span>01 /</span><strong>DEFINE</strong><b>梳理方向</b><p>理解项目背景、目标与限制条件，确认核心价值和关键问题，让设计方向先变得清楚。</p></article>
-          <article><span>02 /</span><strong>SHAPE</strong><b>建立逻辑</b><p>组织空间关系、视觉语言与体验节奏，把概念转化为可讨论、可深化的方案。</p></article>
-          <article><span>03 /</span><strong>DELIVER</strong><b>推进落地</b><p>深化细节与表现效果，配合沟通、调整和交付，让方案更稳定地进入执行。</p></article>
+        <div class="desktop-stage">
+          <img class="section-bg" src="assets/generated/process-bg-clean-v4.png" alt="" loading="lazy" decoding="async" />
+          <div class="process-copy">
+            <p class="kicker"><span></span> MY PROCESS</p>
+            <h2 class="hover-title">HOW I WORK.</h2>
+            <h3>通过过程，让想法变得清晰可感。</h3>
+            <p>每个项目都从理解目标开始，</p>
+            <p>再把抽象需求、空间逻辑和体验叙事，</p>
+            <p>整理成可以推进、可以落地的方案。</p>
+          </div>
+          <div class="process-line"></div>
+          <div class="steps">
+            <article><span>01 /</span><strong>DEFINE</strong><b>梳理方向</b><p>理解项目背景、目标与限制条件，确认核心价值和关键问题，让设计方向先变得清楚。</p></article>
+            <article><span>02 /</span><strong>SHAPE</strong><b>建立逻辑</b><p>组织空间关系、视觉语言与体验节奏，把概念转化为可讨论、可深化的方案。</p></article>
+            <article><span>03 /</span><strong>DELIVER</strong><b>推进落地</b><p>深化细节与表现效果，配合沟通、调整和交付，让方案更稳定地进入执行。</p></article>
+          </div>
         </div>
       </section>
 
       <section id="contact" class="screen contact-screen" data-page="contact">
-        <img class="section-bg" src="assets/generated/contact-clean.png" alt="" loading="lazy" decoding="async" />
-        <div class="contact-copy">
-          <p class="kicker"><span></span> THANK YOU FOR VISITING</p>
-          <h2 class="hover-title">LET'S<br />TALK.</h2>
-          <h3>让下一次空间表达，从一次对话开始。</h3>
-          <i class="short-rule"></i>
-          <div class="contact-grid">
-            <div class="contact-info">
-              <strong>Yingchun Xu</strong>
-              <span>3D SPATIAL &amp; VISUAL DESIGNER</span>
-              <a href="mailto:1696277685@qq.com">1696277685@qq.com</a>
-              <a href="tel:13683061224">13683061224</a>
-              <p>Beijing / China</p>
-            </div>
-            <div class="qr-card">
-              <img src="assets/processed/wechat-qr-clean.png" alt="WeChat QR code" loading="lazy" decoding="async" />
-              <span>WECHAT</span>
+        <div class="desktop-stage">
+          <img class="section-bg" src="assets/generated/contact-clean.png" alt="" loading="lazy" decoding="async" />
+          <div class="contact-copy">
+            <p class="kicker"><span></span> THANK YOU FOR VISITING</p>
+            <h2 class="hover-title">LET'S<br />TALK.</h2>
+            <h3>让下一次空间表达，从一次对话开始。</h3>
+            <i class="short-rule"></i>
+            <div class="contact-grid">
+              <div class="contact-info">
+                <strong>Yingchun Xu</strong>
+                <span>3D SPATIAL &amp; VISUAL DESIGNER</span>
+                <a href="mailto:1696277685@qq.com">1696277685@qq.com</a>
+                <a href="tel:13683061224">13683061224</a>
+                <p>Beijing / China</p>
+              </div>
+              <div class="qr-card">
+                <img src="assets/processed/wechat-qr-clean.png" alt="WeChat QR code" loading="lazy" decoding="async" />
+                <span>WECHAT</span>
+              </div>
             </div>
           </div>
+          <footer>© 2026 YINGCHUN XU. ALL RIGHTS RESERVED.</footer>
         </div>
-        <footer>© 2026 YINGCHUN XU. ALL RIGHTS RESERVED.</footer>
       </section>
     </main>
 

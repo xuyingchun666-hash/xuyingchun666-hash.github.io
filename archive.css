@@ -479,6 +479,125 @@ video {
   letter-spacing: 0.06em;
 }
 
+@media (min-width: 981px) {
+  .stage-lock body {
+    overflow-x: hidden;
+  }
+
+  .stage-lock .site-header {
+    width: 1920px;
+    left: 50%;
+    right: auto;
+    height: 104px;
+    padding: 0 96px;
+    grid-template-columns: 320px minmax(560px, 1fr) 230px;
+    transform: translateX(-50%) scale(var(--stage-scale));
+    transform-origin: top center;
+  }
+
+  .stage-lock .main-nav {
+    gap: 80px;
+  }
+
+  .stage-lock .archive-page {
+    position: relative;
+    left: 50%;
+    width: 1920px;
+    margin-left: -960px;
+    transform: scale(var(--stage-scale));
+    transform-origin: top center;
+  }
+
+  .site-header {
+    grid-template-columns: minmax(250px, 320px) minmax(520px, 1fr) minmax(170px, 230px);
+    padding: 0 3.8vw;
+  }
+
+  .archive-hero {
+    min-height: 46vh;
+    padding: 132px 7.4vw 58px;
+  }
+
+  .stage-lock .archive-hero {
+    min-height: 500px;
+    padding: 132px 142px 58px;
+  }
+
+  .archive-hero img {
+    object-position: center 45%;
+  }
+
+  .hero-copy {
+    max-width: 760px;
+  }
+
+  .hero-copy .kicker {
+    margin-bottom: 24px;
+  }
+
+  .hero-copy h1 {
+    font-size: clamp(72px, 6vw, 116px);
+    line-height: 0.95;
+  }
+
+  .hero-copy h2 {
+    margin: 24px 0 16px;
+    font-size: 28px;
+  }
+
+  .hero-copy p {
+    max-width: 680px;
+    font-size: 17px;
+    line-height: 1.68;
+  }
+
+  .archive-board {
+    width: min(85.2vw, 1500px);
+    margin: -26px auto 88px;
+  }
+
+  .stage-lock .archive-board {
+    width: 1636px;
+    margin: -26px auto 88px;
+  }
+
+  .category-bar {
+    min-height: 64px;
+    padding: 10px 22px;
+    gap: 12px;
+  }
+
+  .category-bar button {
+    min-width: 116px;
+    height: 40px;
+  }
+
+  .archive-grid {
+    gap: 22px;
+    margin-top: 22px;
+  }
+
+  .archive-card {
+    min-height: 206px;
+    gap: 24px;
+    padding: 18px;
+  }
+
+  .archive-card .thumb {
+    min-height: 170px;
+  }
+
+  .archive-card h3 {
+    font-size: clamp(24px, 1.7vw, 32px);
+    line-height: 1.22;
+  }
+
+  .archive-card p {
+    margin: 14px 0 20px;
+    line-height: 1.62;
+  }
+}
+
 @media (max-width: 980px) {
   .site-header {
     grid-template-columns: auto 1fr auto;
