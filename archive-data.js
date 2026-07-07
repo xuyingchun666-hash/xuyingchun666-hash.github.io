@@ -1,4 +1,5 @@
-window.ARCHIVE_DATA = {
+window.ARCHIVE_DATA = 
+{
     "generatedAt":  "2026-07-07T02:13:06",
     "totalMedia":  372,
     "categories":  [
@@ -199,7 +200,7 @@ window.ARCHIVE_DATA = {
                                          },
                                          {
                                              "id":  "pop-805d66d1",
-                                             "title":  "联想智生活2.0大图_0608",
+                                             "title":  "联想智生活",
                                              "category":  "快闪 · 会展 · 美陈",
                                              "type":  "project",
                                              "rank":  3,
@@ -1639,57 +1640,57 @@ window.ARCHIVE_DATA = {
                            "count":  11,
                            "items":  [
                                          {
-                                             "src":  "assets/processed/home-c2-camera008-tif-preview.jpg",
+                                             "src":  "assets/archive-watermarked/home-1-home-c2-camera008-tif-preview.jpg",
                                              "type":  "jpg",
                                              "title":  "home-c2-camera008-tif-preview"
                                          },
                                          {
-                                             "src":  "作品项目分类/家装/c2_Camera0020000-edit.jpg",
+                                             "src":  "assets/archive-watermarked/home-2-c2_Camera0020000-edit.jpg",
                                              "type":  "jpg",
                                              "title":  "c2_Camera0020000-edit"
                                          },
                                          {
-                                             "src":  "作品项目分类/家装/c2_Camera0070000-edit.jpg",
+                                             "src":  "assets/archive-watermarked/home-3-c2_Camera0070000-edit.jpg",
                                              "type":  "jpg",
                                              "title":  "c2_Camera0070000-edit"
                                          },
                                          {
-                                             "src":  "作品项目分类/家装/C6-edit.jpg",
+                                             "src":  "assets/archive-watermarked/home-4-C6-edit.jpg",
                                              "type":  "jpg",
                                              "title":  "C6-edit"
                                          },
                                          {
-                                             "src":  "作品项目分类/家装/Camera013_Camera0040000.jpg",
+                                             "src":  "assets/archive-watermarked/home-5-Camera013_Camera0040000.jpg",
                                              "type":  "jpg",
                                              "title":  "Camera013_Camera0040000"
                                          },
                                          {
-                                             "src":  "作品项目分类/家装/Camera013_Camera001  1.770000.jpg",
+                                             "src":  "assets/archive-watermarked/home-6-Camera013_Camera001-1.770000.jpg",
                                              "type":  "jpg",
                                              "title":  "Camera013_Camera001  1.770000"
                                          },
                                          {
-                                             "src":  "作品项目分类/家装/KETI_Camera002  1.50000.jpg",
+                                             "src":  "assets/archive-watermarked/home-7-KETI_Camera002-1.50000.jpg",
                                              "type":  "jpg",
                                              "title":  "KETI_Camera002  1.50000"
                                          },
                                          {
-                                             "src":  "作品项目分类/家装/KETI_Camera004  1.50000.jpg",
+                                             "src":  "assets/archive-watermarked/home-8-KETI_Camera004-1.50000.jpg",
                                              "type":  "jpg",
                                              "title":  "KETI_Camera004  1.50000"
                                          },
                                          {
-                                             "src":  "作品项目分类/家装/KETI_Camera003  1.30000.jpg",
+                                             "src":  "assets/archive-watermarked/home-9-KETI_Camera003-1.30000.jpg",
                                              "type":  "jpg",
                                              "title":  "KETI_Camera003  1.30000"
                                          },
                                          {
-                                             "src":  "作品项目分类/家装/KETI_Camera001   1.50000.jpg",
+                                             "src":  "assets/archive-watermarked/home-10-KETI_Camera001-1.50000.jpg",
                                              "type":  "jpg",
                                              "title":  "KETI_Camera001   1.50000"
                                          },
                                          {
-                                             "src":  "作品项目分类/家装/c1_Camera0041110000.jpg",
+                                             "src":  "assets/archive-watermarked/home-11-c1_Camera0041110000.jpg",
                                              "type":  "jpg",
                                              "title":  "c1_Camera0041110000"
                                          }
@@ -1704,203 +1705,203 @@ window.ARCHIVE_DATA = {
                            "count":  40,
                            "items":  [
                                          {
-                                             "src":  "作品项目分类/AI实验室/4d33736632d34e9e8be1cb1aa6fd3b6.png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-1-4d33736632d34e9e8be1cb1aa6fd3b6.jpg",
+                                             "type":  "jpg",
                                              "title":  "4d33736632d34e9e8be1cb1aa6fd3b6"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/f764b22f51dcd6f2a27a8f842969cde.png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-2-f764b22f51dcd6f2a27a8f842969cde.jpg",
+                                             "type":  "jpg",
                                              "title":  "f764b22f51dcd6f2a27a8f842969cde"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/3eca0edf-dcac-4a5c-8e2d-91a3557edae1.png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-3-3eca0edf-dcac-4a5c-8e2d-91a3557edae1.jpg",
+                                             "type":  "jpg",
                                              "title":  "3eca0edf-dcac-4a5c-8e2d-91a3557edae1"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/f73e2705-4b17-4e37-aabe-de254a608d32.png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-4-f73e2705-4b17-4e37-aabe-de254a608d32.jpg",
+                                             "type":  "jpg",
                                              "title":  "f73e2705-4b17-4e37-aabe-de254a608d32"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/67d7c470-8878-4d11-ad4b-d486360cc136.png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-5-67d7c470-8878-4d11-ad4b-d486360cc136.jpg",
+                                             "type":  "jpg",
                                              "title":  "67d7c470-8878-4d11-ad4b-d486360cc136"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/ChatGPT Image 2026年6月30日 17_38_53 (2).png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-6-ChatGPT-Image-2026年6月30日-17_38_53-(2).jpg",
+                                             "type":  "jpg",
                                              "title":  "ChatGPT Image 2026年6月30日 17_38_53 (2)"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/f8e09a5d-47c5-4ab2-9cf8-4809fdff5f1a.png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-7-f8e09a5d-47c5-4ab2-9cf8-4809fdff5f1a.jpg",
+                                             "type":  "jpg",
                                              "title":  "f8e09a5d-47c5-4ab2-9cf8-4809fdff5f1a"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/6a8c0546-f2a2-4773-a8dd-b66c63019b22.png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-8-6a8c0546-f2a2-4773-a8dd-b66c63019b22.jpg",
+                                             "type":  "jpg",
                                              "title":  "6a8c0546-f2a2-4773-a8dd-b66c63019b22"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/ChatGPT Image 2026年6月30日 18_07_52 (1).png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-9-ChatGPT-Image-2026年6月30日-18_07_52-(1).jpg",
+                                             "type":  "jpg",
                                              "title":  "ChatGPT Image 2026年6月30日 18_07_52 (1)"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/07805e19-b6bd-45a1-868e-83a895326d7c.png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-10-07805e19-b6bd-45a1-868e-83a895326d7c.jpg",
+                                             "type":  "jpg",
                                              "title":  "07805e19-b6bd-45a1-868e-83a895326d7c"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/5357c1d3-eccf-4180-b07f-ead8b3f81b43.png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-11-5357c1d3-eccf-4180-b07f-ead8b3f81b43.jpg",
+                                             "type":  "jpg",
                                              "title":  "5357c1d3-eccf-4180-b07f-ead8b3f81b43"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/ChatGPT Image 2026年6月30日 18_37_00 (2).png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-12-ChatGPT-Image-2026年6月30日-18_37_00-(2).jpg",
+                                             "type":  "jpg",
                                              "title":  "ChatGPT Image 2026年6月30日 18_37_00 (2)"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/e2d3f302-9de7-4554-b8c6-83608bf309e1.png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-13-e2d3f302-9de7-4554-b8c6-83608bf309e1.jpg",
+                                             "type":  "jpg",
                                              "title":  "e2d3f302-9de7-4554-b8c6-83608bf309e1"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/ChatGPT Image 2026年6月30日 17_38_54 (4).png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-14-ChatGPT-Image-2026年6月30日-17_38_54-(4).jpg",
+                                             "type":  "jpg",
                                              "title":  "ChatGPT Image 2026年6月30日 17_38_54 (4)"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/5b393686-f1fa-4111-b87f-e094a1cc10c0.png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-15-5b393686-f1fa-4111-b87f-e094a1cc10c0.jpg",
+                                             "type":  "jpg",
                                              "title":  "5b393686-f1fa-4111-b87f-e094a1cc10c0"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/ChatGPT Image 2026年6月30日 17_38_52 (1).png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-16-ChatGPT-Image-2026年6月30日-17_38_52-(1).jpg",
+                                             "type":  "jpg",
                                              "title":  "ChatGPT Image 2026年6月30日 17_38_52 (1)"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/ChatGPT Image 2026年6月30日 18_37_01 (4).png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-17-ChatGPT-Image-2026年6月30日-18_37_01-(4).jpg",
+                                             "type":  "jpg",
                                              "title":  "ChatGPT Image 2026年6月30日 18_37_01 (4)"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/ChatGPT Image 2026年6月30日 18_37_00 (1).png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-18-ChatGPT-Image-2026年6月30日-18_37_00-(1).jpg",
+                                             "type":  "jpg",
                                              "title":  "ChatGPT Image 2026年6月30日 18_37_00 (1)"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/c3b82200-d9cd-4f0f-80a0-26cd39841e74.png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-19-c3b82200-d9cd-4f0f-80a0-26cd39841e74.jpg",
+                                             "type":  "jpg",
                                              "title":  "c3b82200-d9cd-4f0f-80a0-26cd39841e74"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/6c32ab24-afa7-4224-ab0e-dcc3bbc53103.png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-20-6c32ab24-afa7-4224-ab0e-dcc3bbc53103.jpg",
+                                             "type":  "jpg",
                                              "title":  "6c32ab24-afa7-4224-ab0e-dcc3bbc53103"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/04346a02-974f-4f29-bc8d-a6cfa34e10c4.png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-21-04346a02-974f-4f29-bc8d-a6cfa34e10c4.jpg",
+                                             "type":  "jpg",
                                              "title":  "04346a02-974f-4f29-bc8d-a6cfa34e10c4"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/ChatGPT Image 2026年6月30日 18_07_54 (4).png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-22-ChatGPT-Image-2026年6月30日-18_07_54-(4).jpg",
+                                             "type":  "jpg",
                                              "title":  "ChatGPT Image 2026年6月30日 18_07_54 (4)"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/22654918-ee00-4e2f-889d-31e8d0fb25f9.png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-23-22654918-ee00-4e2f-889d-31e8d0fb25f9.jpg",
+                                             "type":  "jpg",
                                              "title":  "22654918-ee00-4e2f-889d-31e8d0fb25f9"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/fd492afc-3d7e-4e3f-8b5f-f03390c57e95.png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-24-fd492afc-3d7e-4e3f-8b5f-f03390c57e95.jpg",
+                                             "type":  "jpg",
                                              "title":  "fd492afc-3d7e-4e3f-8b5f-f03390c57e95"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/ChatGPT Image 2026年6月30日 17_38_54 (3).png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-25-ChatGPT-Image-2026年6月30日-17_38_54-(3).jpg",
+                                             "type":  "jpg",
                                              "title":  "ChatGPT Image 2026年6月30日 17_38_54 (3)"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/ChatGPT Image 2026年6月30日 18_07_53 (2).png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-26-ChatGPT-Image-2026年6月30日-18_07_53-(2).jpg",
+                                             "type":  "jpg",
                                              "title":  "ChatGPT Image 2026年6月30日 18_07_53 (2)"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/content.png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-27-content.jpg",
+                                             "type":  "jpg",
                                              "title":  "content"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/3f55dd6d-e1db-48c8-a4c1-e0dbfc9f7873.png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-28-3f55dd6d-e1db-48c8-a4c1-e0dbfc9f7873.jpg",
+                                             "type":  "jpg",
                                              "title":  "3f55dd6d-e1db-48c8-a4c1-e0dbfc9f7873"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/f865c04c-0b28-49c8-945c-4019c898aa27.png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-29-f865c04c-0b28-49c8-945c-4019c898aa27.jpg",
+                                             "type":  "jpg",
                                              "title":  "f865c04c-0b28-49c8-945c-4019c898aa27"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/e4f53e2e-a2ef-484c-99cf-8c406e83b211.png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-30-e4f53e2e-a2ef-484c-99cf-8c406e83b211.jpg",
+                                             "type":  "jpg",
                                              "title":  "e4f53e2e-a2ef-484c-99cf-8c406e83b211"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/ChatGPT Image 2026年6月30日 18_37_01 (3).png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-31-ChatGPT-Image-2026年6月30日-18_37_01-(3).jpg",
+                                             "type":  "jpg",
                                              "title":  "ChatGPT Image 2026年6月30日 18_37_01 (3)"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/77a6bb74-6fb4-433e-b538-55d42b253ff3.png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-32-77a6bb74-6fb4-433e-b538-55d42b253ff3.jpg",
+                                             "type":  "jpg",
                                              "title":  "77a6bb74-6fb4-433e-b538-55d42b253ff3"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/ChatGPT Image 2026年6月30日 18_07_53 (3).png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-33-ChatGPT-Image-2026年6月30日-18_07_53-(3).jpg",
+                                             "type":  "jpg",
                                              "title":  "ChatGPT Image 2026年6月30日 18_07_53 (3)"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/a58c4407-3559-4172-82cb-68d77b9cd53a.png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-34-a58c4407-3559-4172-82cb-68d77b9cd53a.jpg",
+                                             "type":  "jpg",
                                              "title":  "a58c4407-3559-4172-82cb-68d77b9cd53a"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/fa17656c-5e95-4062-b0a0-97ae7d70633c.png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-35-fa17656c-5e95-4062-b0a0-97ae7d70633c.jpg",
+                                             "type":  "jpg",
                                              "title":  "fa17656c-5e95-4062-b0a0-97ae7d70633c"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/165813ca-3e21-4f09-b234-062decc773fa.png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-36-165813ca-3e21-4f09-b234-062decc773fa.jpg",
+                                             "type":  "jpg",
                                              "title":  "165813ca-3e21-4f09-b234-062decc773fa"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/691a08a6-43c0-4405-98f4-ec1dd5266121.png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-37-691a08a6-43c0-4405-98f4-ec1dd5266121.jpg",
+                                             "type":  "jpg",
                                              "title":  "691a08a6-43c0-4405-98f4-ec1dd5266121"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/d922e9f5-88c7-4209-8e76-e02118ff41ac.png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-38-d922e9f5-88c7-4209-8e76-e02118ff41ac.jpg",
+                                             "type":  "jpg",
                                              "title":  "d922e9f5-88c7-4209-8e76-e02118ff41ac"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/2c3b1046-67d2-45d5-9c77-7ae8695160db.png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-39-2c3b1046-67d2-45d5-9c77-7ae8695160db.jpg",
+                                             "type":  "jpg",
                                              "title":  "2c3b1046-67d2-45d5-9c77-7ae8695160db"
                                          },
                                          {
-                                             "src":  "作品项目分类/AI实验室/985b49bc-9d4c-4226-a692-06ae26718413.png",
-                                             "type":  "png",
+                                             "src":  "assets/archive-watermarked/ai-40-985b49bc-9d4c-4226-a692-06ae26718413.jpg",
+                                             "type":  "jpg",
                                              "title":  "985b49bc-9d4c-4226-a692-06ae26718413"
                                          }
                                      ]
@@ -1914,101 +1915,101 @@ window.ARCHIVE_DATA = {
                            "count":  19,
                            "items":  [
                                          {
-                                             "src":  "作品项目分类/其他/Camera005  002_Camera005  0020000.jpg",
+                                             "src":  "assets/archive-watermarked/others-1-Camera005-002_Camera005-0020000.jpg",
                                              "type":  "jpg",
                                              "title":  "Camera005  002_Camera005  0020000"
                                          },
                                          {
-                                             "src":  "作品项目分类/其他/Camera005  002_Camera006   10000.jpg",
+                                             "src":  "assets/archive-watermarked/others-2-Camera005-002_Camera006-10000.jpg",
                                              "type":  "jpg",
                                              "title":  "Camera005  002_Camera006   10000"
                                          },
                                          {
-                                             "src":  "作品项目分类/其他/Camera005  002_Camera005  10000.jpg",
+                                             "src":  "assets/archive-watermarked/others-3-Camera005-002_Camera005-10000.jpg",
                                              "type":  "jpg",
                                              "title":  "Camera005  002_Camera005  10000"
                                          },
                                          {
-                                             "src":  "作品项目分类/其他/Camera005  002_Camera0080000.jpg",
+                                             "src":  "assets/archive-watermarked/others-4-Camera005-002_Camera0080000.jpg",
                                              "type":  "jpg",
                                              "title":  "Camera005  002_Camera0080000"
                                          },
                                          {
-                                             "src":  "作品项目分类/其他/c1_PhysCamera001_0000.jpg",
+                                             "src":  "assets/archive-watermarked/others-5-c1_PhysCamera001_0000.jpg",
                                              "type":  "jpg",
                                              "title":  "c1_PhysCamera001_0000"
                                          },
                                          {
-                                             "src":  "作品项目分类/其他/Camera026 1.5_Camera0050000.jpg",
+                                             "src":  "assets/archive-watermarked/others-6-Camera026-1.5_Camera0050000.jpg",
                                              "type":  "jpg",
                                              "title":  "Camera026 1.5_Camera0050000"
                                          },
                                          {
-                                             "src":  "作品项目分类/其他/c1_Camera001_0000.jpg",
+                                             "src":  "assets/archive-watermarked/others-7-c1_Camera001_0000.jpg",
                                              "type":  "jpg",
                                              "title":  "c1_Camera001_0000"
                                          },
                                          {
-                                             "src":  "作品项目分类/其他/Camera0051_Camera0050000.jpg",
+                                             "src":  "assets/archive-watermarked/others-8-Camera0051_Camera0050000.jpg",
                                              "type":  "jpg",
                                              "title":  "Camera0051_Camera0050000"
                                          },
                                          {
-                                             "src":  "作品项目分类/其他/Camera005  002_Camera0100000.jpg",
+                                             "src":  "assets/archive-watermarked/others-9-Camera005-002_Camera0100000.jpg",
                                              "type":  "jpg",
                                              "title":  "Camera005  002_Camera0100000"
                                          },
                                          {
-                                             "src":  "作品项目分类/其他/Camera013_Camera0120100.jpg",
+                                             "src":  "assets/archive-watermarked/others-10-Camera013_Camera0120100.jpg",
                                              "type":  "jpg",
                                              "title":  "Camera013_Camera0120100"
                                          },
                                          {
-                                             "src":  "作品项目分类/其他/Camera005  002_Camera0090000.jpg",
+                                             "src":  "assets/archive-watermarked/others-11-Camera005-002_Camera0090000.jpg",
                                              "type":  "jpg",
                                              "title":  "Camera005  002_Camera0090000"
                                          },
                                          {
-                                             "src":  "作品项目分类/其他/航美外立面_Camera0010000111.jpg",
+                                             "src":  "assets/archive-watermarked/others-12-航美外立面_Camera0010000111.jpg",
                                              "type":  "jpg",
                                              "title":  "航美外立面_Camera0010000111"
                                          },
                                          {
-                                             "src":  "作品项目分类/其他/c1.jpg",
+                                             "src":  "assets/archive-watermarked/others-13-c1.jpg",
                                              "type":  "jpg",
                                              "title":  "c1"
                                          },
                                          {
-                                             "src":  "作品项目分类/其他/c2.jpg",
+                                             "src":  "assets/archive-watermarked/others-14-c2.jpg",
                                              "type":  "jpg",
                                              "title":  "c2"
                                          },
                                          {
-                                             "src":  "作品项目分类/其他/制作.jpg",
+                                             "src":  "assets/archive-watermarked/others-15-制作.jpg",
                                              "type":  "jpg",
                                              "title":  "制作"
                                          },
                                          {
-                                             "src":  "作品项目分类/其他/沙发1.jpg",
+                                             "src":  "assets/archive-watermarked/others-16-沙发1.jpg",
                                              "type":  "jpg",
                                              "title":  "沙发1"
                                          },
                                          {
-                                             "src":  "作品项目分类/其他/timg.jpg",
+                                             "src":  "assets/archive-watermarked/others-17-timg.jpg",
                                              "type":  "jpg",
                                              "title":  "timg"
                                          },
                                          {
-                                             "src":  "作品项目分类/其他/Vittoria Frigerio新.jpg",
+                                             "src":  "assets/archive-watermarked/others-18-Vittoria-Frigerio新.jpg",
                                              "type":  "jpg",
                                              "title":  "Vittoria Frigerio新"
                                          },
                                          {
-                                             "src":  "作品项目分类/其他/制作312.jpg",
+                                             "src":  "assets/archive-watermarked/others-19-制作312.jpg",
                                              "type":  "jpg",
                                              "title":  "制作312"
                                          }
                                      ]
                        }
                    ]
-};
+}
